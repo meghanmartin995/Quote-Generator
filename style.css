@@ -9,6 +9,7 @@ body {
 	line-height: 1.25;
 	
 	background-color: #cfffaf;
+  transition: background-color 1s;
   background-image: linear-gradient(180deg, #ffffff, rgba(255, 255, 2555, 0));
 	color: #333333;
   height: 100vh;
@@ -16,11 +17,16 @@ body {
 
 h1 {
 	font-size: 56px;
+  text-indent: -0.4em;
+  margin: 0 0 16px 0;
+}
+
+h1.long {
+  font-size: 40px;
 }
 
 h1, p {
   width: 400px;
-  text-align:  center;
 }
 
 section {

@@ -1,6 +1,6 @@
 [
-  { quote: "one", author: "me"},
-  { quote: "two", author: "you"},
-  { quote: "three", author: "me"}
+  { "quote": "one", "author": "me"},
+  { "quote": "two", "author": "you"},
+  { "quote": "three", "author": "me"}
   
   ]
